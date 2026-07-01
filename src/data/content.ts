@@ -7,7 +7,7 @@ export const profile = {
   email: 'surendaran.developer@gmail.com',
   phone: '+91 63811 12401',
   github: 'https://github.com/surendaran-dev',
-  linkedin: 'www.linkedin.com/in/surendaran-dev',
+  linkedin:'https://www.linkedin.com/in/surendaran-dev/',
   twitter: 'https://x.com/surendaran06',
   resumeUrl: '/resume.pdf',
   photo: '/surendaran.jpg',
