@@ -22,7 +22,7 @@ export default function About() {
               <div key={e.degree} className="mt-5">
                 <h3 className="font-display font-bold">{e.degree}</h3>
                 <p className="text-sm text-cipher font-mono mt-1">{e.org}</p>
-                <p className="text-xs text-slate-muted mt-1">{e.period} · {e.detail}</p>
+                <p className="text-xs text-slate-muted mt-1">{e.period}</p>
               </div>
             ))}
           </div>
