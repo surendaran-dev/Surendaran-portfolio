@@ -1,0 +1,6 @@
+Place your professional photo here as: surendaran.jpg
+(recommended: square or portrait, min 500x500px)
+
+The image you uploaded in chat appears to be a screenshot, not a portrait —
+so I left this as a placeholder. Just drop your photo in /public/ as
+"surendaran.jpg" and it will automatically appear on the Home page.
