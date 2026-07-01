@@ -8,9 +8,9 @@ import Reveal from '@/components/Reveal'
 // 1. dashboard.emailjs.com → Email Services → copy Service ID
 // 2. Email Templates → use {{name}} {{email}} {{title}} {{message}} → copy Template ID
 // 3. Account → copy Public Key
-const SERVICE_ID = 'YOUR_SERVICE_ID'
-const TEMPLATE_ID = 'YOUR_TEMPLATE_ID'
-const PUBLIC_KEY = 'ErR9-Ha09_D4b-lrm'
+const SERVICE_ID = 'service_bqz1frg'
+const TEMPLATE_ID = 'template_kwsrlt9'
+const PUBLIC_KEY = 'qRuXpuffjXgbDIots'
 
 type Status = 'idle' | 'loading' | 'success' | 'error'
 
